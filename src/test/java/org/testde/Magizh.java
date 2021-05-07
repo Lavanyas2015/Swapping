@@ -7,6 +7,9 @@ public class Magizh {
 		int b=10;
 		System.out.println(a);
 		System.out.println(b);
+		int c=30;
+		System.out.println("testtggg");
+		System.out.println(c);
 
 	}
 
