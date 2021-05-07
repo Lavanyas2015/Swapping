@@ -10,6 +10,8 @@ public class Magizh {
 		int c=30;
 		System.out.println("testtggg");
 		System.out.println(c);
+		
+		System.out.println("manaseeeeeeee");
 
 	}
 
