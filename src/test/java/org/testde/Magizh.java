@@ -11,7 +11,12 @@ public class Magizh {
 		System.out.println("testtggg");
 		System.out.println(c);
 		
+		System.out.println("Iam in Student A");
+		System.out.println();
 		System.out.println("manaseeeeeeee");
+
+		
+
 
 	}
 
