@@ -13,6 +13,10 @@ public class Magizh {
 		
 		System.out.println("Iam in Student A");
 		System.out.println();
+		System.out.println("manaseeeeeeee");
+
+		
+
 
 	}
 
