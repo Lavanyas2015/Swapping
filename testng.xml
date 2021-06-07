@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  
+  <parameter name="Username" value="standard_user"></parameter>
+  <parameter name="Password" value="secret_sauce"></parameter>
+  <parameter name="firstname" value="lavanya"></parameter>
+  <parameter name="lastname" value="s"></parameter>
+  <parameter name="zipcode" value="600069"></parameter>
+    <classes>
+      <class name="Testexecution.Loginexecution"/>
+      <class name="Testexecution.Homeexecution"/>
+      <class name="Testexecution.cartclass"/>
+      <class name="Testexecution.orderexecution"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
